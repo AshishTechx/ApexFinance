@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "dahksr6te",
+      "name": "Ashish",
+      "email": "ash@gmail.com",
+      "phone": "9874563210",
+      "country": "United States",
+      "currency": "$",
+      "profileImage": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ashish",
+      "createdAt": "2026-07-10T10:19:46.738Z",
+      "budgetLimit": 2000,
+      "settings": {
+        "darkMode": true,
+        "currency": "$",
+        "language": "English",
+        "notificationsEnabled": true
+      },
+      "password": "$2b$10$L1I5E4pe5HEl74kHfmwRbOdCYVJp9l1rMghj.6L69wIw9poUoe0ie"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "tbkzj1anq",
+      "userId": "dahksr6te",
+      "title": "Shopping",
+      "description": "Quick add transaction",
+      "amount": 1250,
+      "category": "Shopping",
+      "paymentMethod": "Cash",
+      "date": "2026-07-10",
+      "notes": "",
+      "receiptImage": "",
+      "createdAt": "2026-07-10T10:20:24.392Z"
+    }
+  ]
+}
