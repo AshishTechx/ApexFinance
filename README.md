@@ -56,21 +56,6 @@ ApexFinance is a modern, premium, secure personal expense manager designed like 
 
 ---
 
-## 🔑 Environment Configuration
-
-Add these configurations inside `.env` or set them on your hosting platform:
-
-```env
-# Port allocation 
-PORT=3000
-
-# JWT Cryptographic signature secret key
-JWT_SECRET=personal-expense-tracker-secret-2026
-
-```
-
----
-
 ## 📡 REST API Documentation
 
 ### Authentication Vault
